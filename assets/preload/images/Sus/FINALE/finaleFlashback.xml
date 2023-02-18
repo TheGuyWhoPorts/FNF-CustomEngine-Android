@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="finaleFlashback.png">
+<SubTexture name="finaleFlashback moog0000" x="0" y="0" width="960" height="540" frameX="-1" frameY="-1" frameWidth="962" frameHeight="542" />
+<SubTexture name="finaleFlashback toog0000" x="960" y="0" width="960" height="540" frameX="-1" frameY="-1" frameWidth="962" frameHeight="542" />
+<SubTexture name="finaleFlashback doog0000" x="0" y="540" width="960" height="540" frameX="-1" frameY="-1" frameWidth="962" frameHeight="542" />
+</TextureAtlas>
