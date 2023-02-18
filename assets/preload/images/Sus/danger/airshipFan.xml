@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="airshipFan.png">
+<SubTexture name="ala avion instance 10000" x="0" y="0" width="904" height="520" frameX="0" frameY="0" frameWidth="904" frameHeight="520" />
+<SubTexture name="ala avion instance 10001" x="904" y="0" width="904" height="520" frameX="0" frameY="0" frameWidth="904" frameHeight="520" />
+<SubTexture name="ala avion instance 10002" x="0" y="520" width="904" height="520" frameX="0" frameY="0" frameWidth="904" frameHeight="520" />
+<SubTexture name="ala avion instance 10003" x="904" y="520" width="904" height="520" frameX="0" frameY="0" frameWidth="904" frameHeight="520" />
+<SubTexture name="ala avion instance 10004" x="0" y="1040" width="904" height="520" frameX="0" frameY="0" frameWidth="904" frameHeight="520" />
+<SubTexture name="ala avion instance 10005" x="904" y="1040" width="904" height="520" frameX="0" frameY="0" frameWidth="904" frameHeight="520" />
+<SubTexture name="ala avion instance 10006" x="1808" y="0" width="904" height="520" frameX="0" frameY="0" frameWidth="904" frameHeight="520" />
+<SubTexture name="ala avion instance 10007" x="1808" y="520" width="904" height="520" frameX="0" frameY="0" frameWidth="904" frameHeight="520" />
+<SubTexture name="ala avion instance 10008" x="1808" y="1040" width="904" height="520" frameX="0" frameY="0" frameWidth="904" frameHeight="520" />
+<SubTexture name="ala avion instance 10009" x="0" y="1560" width="904" height="520" frameX="0" frameY="0" frameWidth="904" frameHeight="520" />
+<SubTexture name="ala avion instance 10010" x="904" y="1560" width="904" height="520" frameX="0" frameY="0" frameWidth="904" frameHeight="520" />
+</TextureAtlas>
