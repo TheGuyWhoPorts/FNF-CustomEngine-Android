@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="defeat.png">
+<SubTexture name="defeat0000" x="0" y="0" width="1096" height="650" frameX="0" frameY="0" frameWidth="1096" frameHeight="650" />
+<SubTexture name="defeat0001" x="1096" y="0" width="1096" height="650" frameX="0" frameY="0" frameWidth="1096" frameHeight="650" />
+<SubTexture name="defeat0002" x="0" y="650" width="1096" height="650" frameX="0" frameY="0" frameWidth="1096" frameHeight="650" />
+<SubTexture name="defeat0003" x="1096" y="650" width="1096" height="650" frameX="0" frameY="0" frameWidth="1096" frameHeight="650" />
+<SubTexture name="defeat0004" x="0" y="1300" width="1096" height="650" frameX="0" frameY="0" frameWidth="1096" frameHeight="650" />
+<SubTexture name="defeat0005" x="1096" y="1300" width="1096" height="650" frameX="0" frameY="0" frameWidth="1096" frameHeight="650" />
+<SubTexture name="defeat0006" x="2192" y="0" width="1096" height="650" frameX="0" frameY="0" frameWidth="1096" frameHeight="650" />
+<SubTexture name="defeat0007" x="2192" y="650" width="1096" height="650" frameX="0" frameY="0" frameWidth="1096" frameHeight="650" />
+<SubTexture name="defeat0008" x="2192" y="1300" width="1096" height="650" frameX="0" frameY="0" frameWidth="1096" frameHeight="650" />
+<SubTexture name="defeat0009" x="0" y="1950" width="1096" height="650" frameX="0" frameY="0" frameWidth="1096" frameHeight="650" />
+<SubTexture name="defeat0010" x="1096" y="1950" width="1096" height="650" frameX="0" frameY="0" frameWidth="1096" frameHeight="650" />
+<SubTexture name="defeat0011" x="2192" y="1950" width="1096" height="650" frameX="0" frameY="0" frameWidth="1096" frameHeight="650" />
+<SubTexture name="defeat0012" x="0" y="2600" width="1096" height="650" frameX="0" frameY="0" frameWidth="1096" frameHeight="650" />
+<SubTexture name="defeat0013" x="1096" y="2600" width="1096" height="650" frameX="0" frameY="0" frameWidth="1096" frameHeight="650" />
+<SubTexture name="defeat0014" x="2192" y="2600" width="1096" height="650" frameX="0" frameY="0" frameWidth="1096" frameHeight="650" />
+</TextureAtlas>
