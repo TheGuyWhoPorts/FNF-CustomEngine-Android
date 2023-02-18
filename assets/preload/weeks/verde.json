@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Sussus Toogus", "crewmate", [31, 107, 43]],
+		["Lights Down", "impostor3", [31, 107, 43]],
+		["Reactor", "impostor3", [31, 107, 43]],
+		["Ejected", "parasite", [31, 107, 43]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "",
+
+	"storyName": "Mira Mania",
+	"weekBefore": "",
+	"weekName": "Week 2",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

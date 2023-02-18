@@ -1,0 +1,68 @@
+{
+	"storyName": "amongus-3",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "sus-2",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"mando",
+			"yellow",
+			[
+				255,
+				233,
+				35
+			]
+		],
+		[
+			"dlow",
+			"yellow",
+			[
+				255,
+				233,
+				35
+			]
+		],
+		[
+			"oversight",
+			"white",
+			[
+				215,
+				215,
+				220
+			]
+		],
+		[
+			"danger",
+			"black",
+			[
+				35,
+				0,
+				35
+			]
+		],
+		[
+			"double kill",
+			"whiteblack",
+			[
+				115,
+				60,
+				115
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

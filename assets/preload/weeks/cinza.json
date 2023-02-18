@@ -1,0 +1,50 @@
+{
+	"storyName": "amongus-6",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "sus-5",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"delusion",
+			"gray",
+			[
+				117,
+				103,
+				137
+			]
+		],
+		[
+			"blackout",
+			"gray",
+			[
+				117,
+				103,
+				137
+			]
+		],
+		[
+			"neurotic",
+			"gray",
+			[
+				117,
+				103,
+				137
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}
