@@ -1,0 +1,48 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				3,
+				-305
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "stereo boom",
+			"indices": [
+				23,
+				24
+			]
+		},
+		{
+			"offsets": [
+				3,
+				-305
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "anim",
+			"loop": false,
+			"name": "stereo boom"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Sus/stereo_taken",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

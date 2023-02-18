@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				3
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance afraid",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left fear",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-41
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down fear",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				67
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up fear",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right fear",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				6
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				6
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				6
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				6
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Sus/BF_Defeat_Scared",
+	"position": [
+		0,
+		360
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
