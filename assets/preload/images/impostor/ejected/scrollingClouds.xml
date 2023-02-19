@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="scrollingClouds.png">
+	
+	
+	<SubTexture name="Cloud00000" x="0" y="0" width="1320" height="313" />
+	<SubTexture name="Cloud10000" x="0" y="321" width="270" height="79" />
+	<SubTexture name="Cloud20000" x="1327" y="250" width="629" height="145" />
+	<SubTexture name="Cloud30000" x="1327" y="0" width="707" height="243" />
+</TextureAtlas>
