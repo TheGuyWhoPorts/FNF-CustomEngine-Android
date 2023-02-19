@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stereo_taken.png">
+	
+	
+	<SubTexture name="stereo boom0000" x="0" y="0" width="368" height="178" />
+	<SubTexture name="stereo boom0001" x="0" y="0" width="368" height="178" />
+	<SubTexture name="stereo boom0002" x="373" y="0" width="368" height="178" />
+	<SubTexture name="stereo boom0003" x="0" y="183" width="368" height="178" />
+	<SubTexture name="stereo boom0004" x="373" y="183" width="368" height="178" />
+	<SubTexture name="stereo boom0005" x="373" y="183" width="368" height="178" />
+	<SubTexture name="stereo boom0006" x="0" y="366" width="368" height="178" />
+	<SubTexture name="stereo boom0007" x="0" y="366" width="368" height="178" />
+	<SubTexture name="stereo boom0008" x="373" y="366" width="368" height="178" />
+	<SubTexture name="stereo boom0009" x="373" y="366" width="368" height="178" />
+	<SubTexture name="stereo boom0010" x="373" y="366" width="368" height="178" />
+	<SubTexture name="stereo boom0011" x="373" y="366" width="368" height="178" />
+	<SubTexture name="stereo boom0012" x="373" y="366" width="368" height="178" />
+	<SubTexture name="stereo boom0013" x="373" y="366" width="368" height="178" />
+	<SubTexture name="stereo boom0014" x="373" y="366" width="368" height="178" />
+	<SubTexture name="stereo boom0015" x="373" y="366" width="368" height="178" />
+	<SubTexture name="stereo boom0016" x="373" y="366" width="368" height="178" />
+	<SubTexture name="stereo boom0017" x="373" y="366" width="368" height="178" />
+	<SubTexture name="stereo boom0018" x="373" y="366" width="368" height="178" />
+	<SubTexture name="stereo boom0019" x="373" y="366" width="368" height="178" />
+	<SubTexture name="stereo boom0020" x="373" y="366" width="368" height="178" />
+	<SubTexture name="stereo boom0021" x="373" y="366" width="368" height="178" />
+	<SubTexture name="stereo boom0022" x="373" y="366" width="368" height="178" />
+	<SubTexture name="stereo boom0023" x="373" y="366" width="368" height="178" />
+	<SubTexture name="stereo boom0024" x="373" y="366" width="368" height="178" />
+</TextureAtlas>
