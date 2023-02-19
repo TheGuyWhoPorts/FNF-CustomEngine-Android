@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="yellowcoti.png">
+<SubTexture name="Pillars with crewmates instance 10000" x="0" y="373" width="792" height="179" frameX="0" frameY="-11" frameWidth="794" frameHeight="192" />
+<SubTexture name="Pillars with crewmates instance 10001" x="0" y="373" width="792" height="179" frameX="0" frameY="-11" frameWidth="794" frameHeight="192" />
+<SubTexture name="Pillars with crewmates instance 10002" x="0" y="190" width="789" height="183" frameX="-2" frameY="-8" frameWidth="794" frameHeight="192" />
+<SubTexture name="Pillars with crewmates instance 10003" x="0" y="190" width="789" height="183" frameX="-2" frameY="-8" frameWidth="794" frameHeight="192" />
+<SubTexture name="Pillars with crewmates instance 10004" x="778" y="0" width="781" height="188" frameX="-6" frameY="-2" frameWidth="794" frameHeight="192" />
+<SubTexture name="Pillars with crewmates instance 10005" x="778" y="0" width="781" height="188" frameX="-6" frameY="-2" frameWidth="794" frameHeight="192" />
+<SubTexture name="Pillars with crewmates instance 10006" x="0" y="0" width="778" height="190" frameX="-8" frameY="0" frameWidth="794" frameHeight="192" />
+<SubTexture name="Pillars with crewmates instance 10007" x="0" y="0" width="778" height="190" frameX="-8" frameY="0" frameWidth="794" frameHeight="192" />
+<SubTexture name="Pillars with crewmates instance 10008" x="0" y="0" width="778" height="190" frameX="-8" frameY="0" frameWidth="794" frameHeight="192" />
+<SubTexture name="Pillars with crewmates instance 10009" x="0" y="0" width="778" height="190" frameX="-8" frameY="0" frameWidth="794" frameHeight="192" />
+<SubTexture name="Pillars with crewmates instance 10010" x="0" y="0" width="778" height="190" frameX="-8" frameY="0" frameWidth="794" frameHeight="192" />
+<SubTexture name="Pillars with crewmates instance 10011" x="0" y="0" width="778" height="190" frameX="-8" frameY="0" frameWidth="794" frameHeight="192" />
+<SubTexture name="Pillars with crewmates instance 10012" x="0" y="0" width="778" height="190" frameX="-8" frameY="0" frameWidth="794" frameHeight="192" />
+<SubTexture name="Pillars with crewmates instance 10013" x="0" y="0" width="778" height="190" frameX="-8" frameY="0" frameWidth="794" frameHeight="192" />
+<SubTexture name="Pillars with crewmates instance 10014" x="0" y="0" width="778" height="190" frameX="-8" frameY="0" frameWidth="794" frameHeight="192" />
+</TextureAtlas>
