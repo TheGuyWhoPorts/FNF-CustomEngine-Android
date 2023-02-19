@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="snow.png">
+	
+	
+	<SubTexture name="cum0000" x="0" y="0" width="328" height="144" frameX="-19" frameY="-4" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0001" x="0" y="0" width="328" height="144" frameX="-19" frameY="-4" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0002" x="335" y="0" width="336" height="142" frameX="-16" frameY="-6" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0003" x="335" y="0" width="336" height="142" frameX="-16" frameY="-6" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0004" x="679" y="0" width="345" height="140" frameX="-15" frameY="-9" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0005" x="679" y="0" width="345" height="140" frameX="-15" frameY="-9" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0006" x="1032" y="0" width="307" height="117" frameX="-13" frameY="-12" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0007" x="1347" y="0" width="307" height="118" frameX="-13" frameY="-10" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0008" x="1662" y="0" width="304" height="121" frameX="-14" frameY="-10" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0009" x="0" y="152" width="304" height="118" frameX="-14" frameY="-14" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0010" x="312" y="152" width="303" height="124" frameX="-13" frameY="-15" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0011" x="622" y="152" width="303" height="123" frameX="-13" frameY="-16" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0012" x="933" y="152" width="305" height="132" frameX="-7" frameY="-17" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0013" x="1246" y="152" width="305" height="131" frameX="-7" frameY="-18" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0014" x="1559" y="152" width="310" height="149" frameX="0" frameY="-8" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0015" x="0" y="308" width="310" height="149" frameX="0" frameY="-8" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0016" x="317" y="308" width="298" height="112" frameX="-13" frameY="0" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0017" x="623" y="308" width="298" height="112" frameX="-13" frameY="0" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0018" x="929" y="308" width="292" height="109" frameX="-18" frameY="-6" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0019" x="1228" y="308" width="292" height="109" frameX="-18" frameY="-6" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0020" x="1528" y="308" width="291" height="109" frameX="-16" frameY="-8" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0021" x="0" y="465" width="291" height="109" frameX="-16" frameY="-8" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0022" x="299" y="465" width="295" height="117" frameX="-14" frameY="-11" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0023" x="601" y="465" width="295" height="117" frameX="-14" frameY="-11" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0024" x="904" y="465" width="300" height="126" frameX="-13" frameY="-13" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0025" x="1212" y="465" width="300" height="126" frameX="-13" frameY="-13" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0026" x="1519" y="465" width="307" height="133" frameX="-7" frameY="-16" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0027" x="0" y="606" width="307" height="133" frameX="-7" frameY="-16" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0028" x="314" y="606" width="314" height="139" frameX="0" frameY="-17" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0029" x="636" y="606" width="314" height="139" frameX="0" frameY="-17" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0030" x="959" y="606" width="303" height="112" frameX="-13" frameY="-20" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0031" x="1269" y="606" width="303" height="112" frameX="-13" frameY="-20" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0032" x="1580" y="606" width="311" height="115" frameX="-11" frameY="-21" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0033" x="1580" y="606" width="311" height="115" frameX="-11" frameY="-21" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0034" x="0" y="753" width="317" height="118" frameX="-10" frameY="-22" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0035" x="0" y="753" width="317" height="118" frameX="-10" frameY="-22" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0036" x="324" y="753" width="324" height="122" frameX="-10" frameY="-21" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0037" x="324" y="753" width="324" height="122" frameX="-10" frameY="-21" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0038" x="656" y="753" width="330" height="127" frameX="-11" frameY="-19" frameWidth="359" frameHeight="156" />
+	<SubTexture name="cum0039" x="656" y="753" width="330" height="127" frameX="-11" frameY="-19" frameWidth="359" frameHeight="156" />
+</TextureAtlas>
